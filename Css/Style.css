@@ -44,11 +44,3 @@ element {
     font-size: 2rem;
 }
 
-/* For screens 768px wide or smaller (tablets and phones) */
-@media(max-width:1040px){
-   .Questions{
-        font-size:1rem;
-    }.Options button{
-        width:120px;
-    }
-}
