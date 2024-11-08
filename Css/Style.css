@@ -45,15 +45,8 @@ element {
 }
 
 /* For screens 768px wide or smaller (tablets and phones) */
-@media (max-width: 768px) {
-    element {
-        font-size: 1.5rem;
-    }
-}
-
-/* For screens 480px wide or smaller (mostly phones) */
-@media (max-width: 480px) {
-    element {
-        font-size: 1.2rem;
+@media(min-width:1040px){
+    element{
+        font-size:1rem;
     }
 }
