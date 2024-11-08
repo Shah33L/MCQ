@@ -46,7 +46,9 @@ element {
 
 /* For screens 768px wide or smaller (tablets and phones) */
 @media(min-width:1040px){
-    element{
+   .Questions{
         font-size:1rem;
+    }.Options button{
+        width:120px;
     }
 }
