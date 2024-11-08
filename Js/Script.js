@@ -1,6 +1,6 @@
 const questions = [
     {
-     question:"1)Is European Standard Schools One of the best School of Dhaka?",
+     question:"1)Is European Standard School one of the best Schools of Dhaka?",
      options:["Yes","No"],
      answer:"Yes"
     },
