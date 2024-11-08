@@ -1,101 +1,101 @@
 const questions = [
     {
-     question:"Is European Standard School One of the best School of Dhaka?",
+     question:"1)Is European Standard Schools One of the best School of Dhaka?",
      options:["Yes","No"],
      answer:"Yes"
     },
     {
-      question: "What is the capital of France?",
+      question: "2)What is the capital of France?",
       options: ["Paris", "London", "Berlin", "Rome"],
       answer: "Paris"
     },
     {
-      question: "Who wrote the play 'Romeo and Juliet'?",
+      question: "3)Who wrote the play 'Romeo and Juliet'?",
       options: ["William Shakespeare", "Charles Dickens", "Jane Austen"],
       answer: "William Shakespeare"
     },
     {
-      question: "What is the largest planet in our solar system?",
+      question: "4)What is the largest planet in our solar system?",
       options: ["Earth", "Mars", "Jupiter", "Saturn"],
       answer: "Jupiter"
     },
     {
-      question: "In which year did the Titanic sink?",
+      question: "5)In which year did the Titanic sink?",
       options: ["1912", "1905", "1920", "1915"],
       answer: "1912"
     },
     {
-      question: "What is the chemical symbol for water?",
+      question: "6)What is the chemical symbol for water?",
       options: ["H2O", "CO2", "O2", "NaCl"],
       answer: "H2O"
     },
     {
-      question: "How many continents are there?",
+      question: "7)How many continents are there?",
       options: ["5", "6", "7", "8"],
       answer: "7"
     },
     {
-      question: "Which planet is known as the Red Planet?",
+      question: "8)Which planet is known as the Red Planet?",
       options: ["Venus", "Saturn", "Mars", "Mercury"],
       answer: "Mars"
     },
     {
-      question: "Who painted the Mona Lisa?",
+      question: "9)Who painted the Mona Lisa?",
       options: ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
       answer: "Leonardo da Vinci"
     },
     {
-      question: "What is the capital city of Japan?",
+      question: "10)What is the capital city of Japan?",
       options: ["Tokyo", "Beijing", "Seoul", "Bangkok"],
       answer: "Tokyo"
     },
     {
-      question: "Which element has the chemical symbol 'O'?",
+      question: "11)Which element has the chemical symbol 'O'?",
       options: ["Oxygen", "Gold", "Iron", "Hydrogen"],
       answer: "Oxygen"
     },
     {
-      question: "What is the tallest mountain in the world?",
+      question: "12)What is the tallest mountain in the world?",
       options: ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
       answer: "Mount Everest"
     },
     {
-      question: "Who is known as the 'Father of Computers'?",
+      question: "13)Who is known as the 'Father of Computers'?",
       options: ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
       answer: "Charles Babbage"
     },
     {
-      question: "What is the currency of the United Kingdom?",
+      question: "14)What is the currency of the United Kingdom?",
       options: ["Euro", "Dollar", "Pound Sterling", "Yen"],
       answer: "Pound Sterling"
     },
     {
-      question: "Which ocean is the largest?",
+      question: "15)Which ocean is the largest?",
       options: ["Atlantic", "Indian", "Pacific", "Arctic"],
       answer: "Pacific"
     },
     {
-      question: "In which country is the Great Barrier Reef located?",
+      question: "16)In which country is the Great Barrier Reef located?",
       options: ["Australia", "USA", "India", "South Africa"],
       answer: "Australia"
     },
     {
-      question: "What is the primary language spoken in Brazil?",
+      question: "17)What is the primary language spoken in Brazil?",
       options: ["Spanish", "Portuguese", "French", "English"],
       answer: "Portuguese"
     },
     {
-      question: "What is the smallest country in the world?",
+      question: "18)What is the smallest country in the world?",
       options: ["Vatican City", "Monaco", "San Marino", "Malta"],
       answer: "Vatican City"
     },
     {
-      question: "What is the hardest natural substance on Earth?",
+      question: "19)What is the hardest natural substance on Earth?",
       options: ["Gold", "Iron", "Diamond", "Platinum"],
       answer: "Diamond"
     },
     {
-      question: "How many bones are there in the human body?",
+      question: "20)How many bones are there in the human body?",
       options: ["206", "198", "210", "250"],
       answer: "206"
     }
